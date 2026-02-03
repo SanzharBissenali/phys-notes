@@ -1,0 +1,929 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Physics Course - Introduction to Physics",
+    "section": "",
+    "text": "Physics Course Notes\nWelcome to the Physics Course notes. This comprehensive guide covers the fundamental principles of physics, from classical mechanics to modern quantum theory.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physics Course Notes</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "Physics Course - Introduction to Physics",
+    "section": "Course Overview",
+    "text": "Course Overview\nThis course is designed to provide students with a solid foundation in physics through theoretical understanding and practical applications. The curriculum is structured to build knowledge progressively, starting with basic concepts and advancing to more complex topics.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physics Course Notes</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#course-structure",
+    "href": "index.html#course-structure",
+    "title": "Physics Course - Introduction to Physics",
+    "section": "Course Structure",
+    "text": "Course Structure\nThis course is organized into the following main topics:\n\nCore Chapters\n\nClassical Mechanics (?sec-mechanics) - Study of motion, forces, and energy\nThermodynamics (?sec-thermodynamics) - Heat, temperature, and energy transfer\nElectromagnetism (?sec-electromagnetism) - Electric and magnetic phenomena\nWave Physics (?sec-waves) - Wave mechanics and oscillations\nOptics (?sec-optics) - Light and optical phenomena\nQuantum Mechanics (?sec-quantum) - Quantum theory and applications\nModern Physics (?sec-modern-physics) - Relativity and contemporary physics\n\n\n\nAppendices\n\nMathematical Methods (?sec-mathematical-methods) - Essential mathematical tools\nLaboratory Techniques (?sec-laboratory-techniques) - Experimental methods and data analysis",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physics Course Notes</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-these-notes",
+    "href": "index.html#how-to-use-these-notes",
+    "title": "Physics Course - Introduction to Physics",
+    "section": "How to Use These Notes",
+    "text": "How to Use These Notes\nThese notes are designed to be:\n\nComprehensive: Covering all essential topics in the curriculum\nProgressive: Building concepts step by step\nPractical: Including examples and applications\nInteractive: Featuring cross-references and navigation",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physics Course Notes</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "Physics Course - Introduction to Physics",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nStudents should have a solid foundation in: - Calculus (differential and integral) - Linear algebra - Basic trigonometry and geometry",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physics Course Notes</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Physics Course - Introduction to Physics",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nUpon completion of this course, students will be able to:\n\nApply fundamental physics principles to solve problems\nUnderstand the mathematical framework of physical laws\nAnalyze experimental data and draw conclusions\nConnect theoretical concepts to real-world applications",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physics Course Notes</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#navigation",
+    "href": "index.html#navigation",
+    "title": "Physics Course - Introduction to Physics",
+    "section": "Navigation",
+    "text": "Navigation\nUse the sidebar to navigate between chapters. Each chapter includes: - Detailed explanations of concepts - Mathematical derivations where appropriate - Worked examples and problems - Cross-references to related topics\n\n\nTip: Use the search function in the sidebar to quickly find specific topics or concepts.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physics Course Notes</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "Physics Course - Introduction to Physics",
+    "section": "Getting Started",
+    "text": "Getting Started\nBegin with Chapter 1: Classical Mechanics to establish the foundational concepts that will be used throughout the course.\n\nThese notes are continuously updated and improved. Please check back regularly for new content and revisions.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physics Course Notes</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/intro.html",
+    "href": "physics5/intro.html",
+    "title": "Physics 5",
+    "section": "",
+    "text": "Overview\nWelcome to Physics 5. This section covers general information about the course structure.\nFirst, please take a look at the ReadME and Intro for this class.\nAlso, during the 1st week you will be asked to send the Lab Scheduling Form to Frank Rice at rice@caltech.edu",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Physics 5</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/intro.html#useful-files",
+    "href": "physics5/intro.html#useful-files",
+    "title": "Physics 5",
+    "section": "Useful Files",
+    "text": "Useful Files\n\nData Sheets\nLab Equipment\nUseful Circuits",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Physics 5</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment1.html",
+    "href": "physics5/experiment1.html",
+    "title": "Experiment 1",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 1 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Experiment 1</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment1.html#overview",
+    "href": "physics5/experiment1.html#overview",
+    "title": "Experiment 1",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_5/Experiment_1.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Experiment 1</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment1.html#comments",
+    "href": "physics5/experiment1.html#comments",
+    "title": "Experiment 1",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Experiment 1</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment2.html",
+    "href": "physics5/experiment2.html",
+    "title": "Experiment 2",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 2 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Experiment 2</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment2.html#overview",
+    "href": "physics5/experiment2.html#overview",
+    "title": "Experiment 2",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_5/Experiment_2.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Experiment 2</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment2.html#comments",
+    "href": "physics5/experiment2.html#comments",
+    "title": "Experiment 2",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Experiment 2</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment3.html",
+    "href": "physics5/experiment3.html",
+    "title": "Experiment 3",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 1 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Experiment 3</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment3.html#overview",
+    "href": "physics5/experiment3.html#overview",
+    "title": "Experiment 3",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_5/Experiment_3.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Experiment 3</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment3.html#comments",
+    "href": "physics5/experiment3.html#comments",
+    "title": "Experiment 3",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Experiment 3</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment4.html",
+    "href": "physics5/experiment4.html",
+    "title": "Experiment 4",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 1 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Experiment 4</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment4.html#overview",
+    "href": "physics5/experiment4.html#overview",
+    "title": "Experiment 4",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_5/Experiment_4.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Experiment 4</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment4.html#comments",
+    "href": "physics5/experiment4.html#comments",
+    "title": "Experiment 4",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Experiment 4</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment5.html",
+    "href": "physics5/experiment5.html",
+    "title": "Experiment 5",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 1 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Experiment 5</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment5.html#overview",
+    "href": "physics5/experiment5.html#overview",
+    "title": "Experiment 5",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_5/Experiment_5.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Experiment 5</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment5.html#comments",
+    "href": "physics5/experiment5.html#comments",
+    "title": "Experiment 5",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Experiment 5</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment6.html",
+    "href": "physics5/experiment6.html",
+    "title": "Experiment 6",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 1 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Experiment 6</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment6.html#overview",
+    "href": "physics5/experiment6.html#overview",
+    "title": "Experiment 6",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_5/Experiment_6.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Experiment 6</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment6.html#comments",
+    "href": "physics5/experiment6.html#comments",
+    "title": "Experiment 6",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Experiment 6</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment7.html",
+    "href": "physics5/experiment7.html",
+    "title": "Experiment 7",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 1 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment 7</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment7.html#overview",
+    "href": "physics5/experiment7.html#overview",
+    "title": "Experiment 7",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_5/Experiment_7.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment 7</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment7.html#comments",
+    "href": "physics5/experiment7.html#comments",
+    "title": "Experiment 7",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment 7</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment8.html",
+    "href": "physics5/experiment8.html",
+    "title": "Experiment 8",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 1 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Experiment 8</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment8.html#overview",
+    "href": "physics5/experiment8.html#overview",
+    "title": "Experiment 8",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_5/Experiment_8.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Experiment 8</span>"
+    ]
+  },
+  {
+    "objectID": "physics5/experiment8.html#comments",
+    "href": "physics5/experiment8.html#comments",
+    "title": "Experiment 8",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 5",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Experiment 8</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/intro.html",
+    "href": "physics6/intro.html",
+    "title": "Physics 6",
+    "section": "",
+    "text": "Overview\nWelcome to Physics 6. This section covers general information about the course structure.\nFirst, please take a look at the ReadME and Requirements for this class.\nAlso, during the 1st week you will be asked to send the Lab Scheduling Form to Frank Rice at rice@caltech.edu\nFor the data analysis for your reports you might need to take a look at Physical Data Analysis Reference.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Physics 6</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/intro.html#lab-guidance",
+    "href": "physics6/intro.html#lab-guidance",
+    "title": "Physics 6",
+    "section": "Lab Guidance",
+    "text": "Lab Guidance\n\nOn Analyzing Experimental Data\nExamples of Good Data Analysis Pages\nExamples of Good In-lab Notes\nOn Prelab and Recitation Preparation",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Physics 6</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/intro.html#curvefit",
+    "href": "physics6/intro.html#curvefit",
+    "title": "Physics 6",
+    "section": "Curvefit",
+    "text": "Curvefit\nHere is the link for downloading Curvefit and installation procedure",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Physics 6</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/intro.html#appendix",
+    "href": "physics6/intro.html#appendix",
+    "title": "Physics 6",
+    "section": "Appendix",
+    "text": "Appendix\n\nA - 1D Cavity Resonance\nB - Thermal Physics\nRelativity\nD - Wave Theory\nRotator",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Physics 6</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment-list.html",
+    "href": "physics6/experiment-list.html",
+    "title": "Ph6 - List of Experiments",
+    "section": "",
+    "text": "Introduction\nThis is the list of experiments you are going to conduct in Physics 6. The link to the pdf file",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Ph6 - List of Experiments</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment-list.html#experiments",
+    "href": "physics6/experiment-list.html#experiments",
+    "title": "Ph6 - List of Experiments",
+    "section": "Experiments",
+    "text": "Experiments\n\nExperiment 2: A Simple Resonant System\nA thorough introduction to the procedures and techniques you will come to master as you complete the sophomore experimental physics lab sequence. Specifically, you conduct spectral and time domain analyses of a RLC resonant circuit. You are required to complete this experiment before attempting any of the others.\nExperiment 2\n\n\nExperiment 7: The Kelvin Absolute Voltmeter\nBy measuring the force between two parallel metal plates as a function of the voltage difference between them you may determine the electrical permittivity of space and thus the speed of light. The apparatus was designed and built many years ago by the renowned physicist Wolfgang Panofsky; it includes a beautiful, century-old analytic balance.\nExperiment 7\n\n\nExperiment 12: Electron Diffraction\nThe discovery of the wave-like nature of electrons by the American physicists Davisson and Germer in 1927 and by G. P. Thompson in 1928 earned Louis de Broglie, the theorist who proposed this idea, the 1929 Nobel Prize; Davisson and Thompson later shared the 1937 prize for those experiments. Our experiment, similar to Thompson’s, examines the quite spectacular diffraction of electrons by crystals of graphite and aluminum, providing a precise determination of Planck’s constant.\nExperiment 12\n\n\nExperiment 14: Lumped-Parameter Delay Line\nThe apparatus consists of a 1-dimensional resonant cavity constructed from a 10-cell set of strongly-coupled LC resonators. The resulting transmission line is dispersive, and its spectrum of resonances is particularly rich. You will find that its behavior varies slightly from the predictions of the most straightforward theory, hinting at the existence of an additional high-frequency resonance well beyond its cutoff frequency.\nExperiment 14\n\n\nExperiment 15: Sound Waves in a Cavity\nThe apparatus is essentially a two-dimensional resonant cavity using air as the transmission medium of sound waves introduced by a speaker in a cavity wall. Analysis of the very rich spectrum of resonances provides the dispersion relation for sound waves in air and yields a very accurate determination of the speed of sound.\nExperiment 15\n\n\nExperiment 16: Analog Fourier Series\nUsing a high-Q resonant filter to selectively amplify particular harmonics of a periodic input signal allows you to measure the Fourier component amplitudes and phases of the input waveform. Comparing your results with the mathematical calculation of these values will provide some interesting insights into the relationship between these particular abstract mathematical constructs and actual physical behavior.\nExperiment 16\n\n\nExperiment 19: The Index of Refraction of Gasses\nUsing a modern, research-grade implementation of Albert Michelson’s famous interferometer design you will fairly accurately determine the indices of refraction of various gasses (air, \\(\\ce{CO2}, \\ce{He}\\)) at two wavelengths. Combining your results with a simple microscopic theory of the atomic origin of the refractive index provides some insight into the response of an atom’s electrons to an oscillating external electromagnetic field.\nExperiment 19\n\n\nExperiment 25a: Balmer Lines of Hydrogen\nUsing a high-quality, research-grade spectrometer to accurately measure the emission line spectrum of a high-temperature hydrogen gas, you will test the accuracy of a very simple quantum model of the electron energy levels in a hydrogen atom (a charged particle in an attractive Coulomb field). Your results will should also provide a very precise measurement of a fundamental constant of nature, the (reduced mass) Rydberg constant.\nExperiment 25a\n\n\nExperiment 27: The Normal Zeeman Effect\nThe presence of an external magnetic field causes the individual spectral lines emitted by a hot gas to split, although the splitting may be very small. This phenomenon is called the Zeeman effect after the physicist who first observed it around 1896. A model for the source of the splitting was first proposed by Lorentz, who shared the 1902 Nobel Prize with Zeeman. Your careful measurements of the line splitting as a function of magnetic field strength will provide an accurate estimate of the electron’s charge/mass ratio.\nExperiment 27\n\n\nExperiment 28: The Mössbauer Effect\nAn atom whose nucleus emits a gamma ray must recoil to conserve linear momentum. The energy lost to the recoiling atom reduces the gamma ray energy enough to prohibit it from absorption by another, idential nucleus. While still a graduate student, Rudolph Mössbauer demonstrated that “recoilless” emission of gamma photons could occur from nuclei embedded in a crystal, allowing their subsequent absorption by identical nuclei. Mössbauer shared the 1961 Nobel Prize for this discovery. You will use this Mössbauer Effect to measure the absorption line profile of the 14.4keV gamma photon of \\(\\ce{^{57}Fe}\\), an “oscillator” with a quality factor Q of \\(\\sim 10^{-12}\\).\nExperiment 28",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Ph6 - List of Experiments</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment-list.html#links-to-some-useful-pages",
+    "href": "physics6/experiment-list.html#links-to-some-useful-pages",
+    "title": "Ph6 - List of Experiments",
+    "section": "Links to some useful pages",
+    "text": "Links to some useful pages",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Ph6 - List of Experiments</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment-list.html#student-comments",
+    "href": "physics6/experiment-list.html#student-comments",
+    "title": "Ph6 - List of Experiments",
+    "section": "Student Comments",
+    "text": "Student Comments",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Ph6 - List of Experiments</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment2.html",
+    "href": "physics6/experiment2.html",
+    "title": "Experiment 2",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 2 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Experiment 2</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment2.html#overview",
+    "href": "physics6/experiment2.html#overview",
+    "title": "Experiment 2",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_02.Resonant_System.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Experiment 2</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment2.html#comments",
+    "href": "physics6/experiment2.html#comments",
+    "title": "Experiment 2",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Experiment 2</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment7.html",
+    "href": "physics6/experiment7.html",
+    "title": "Experiment 7",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 7 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 7</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment7.html#overview",
+    "href": "physics6/experiment7.html#overview",
+    "title": "Experiment 7",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_07.Kelvin_Abs_Voltmeter.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 7</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment7.html#comments",
+    "href": "physics6/experiment7.html#comments",
+    "title": "Experiment 7",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Experiment 7</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment12.html",
+    "href": "physics6/experiment12.html",
+    "title": "Experiment 12",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 12 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Experiment 12</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment12.html#overview",
+    "href": "physics6/experiment12.html#overview",
+    "title": "Experiment 12",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_12.Electron_Diffraction.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Experiment 12</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment12.html#comments",
+    "href": "physics6/experiment12.html#comments",
+    "title": "Experiment 12",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Experiment 12</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment14.html",
+    "href": "physics6/experiment14.html",
+    "title": "Experiment 14",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 14 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Experiment 14</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment14.html#overview",
+    "href": "physics6/experiment14.html#overview",
+    "title": "Experiment 14",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_14.Delay_Line.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Experiment 14</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment14.html#comments",
+    "href": "physics6/experiment14.html#comments",
+    "title": "Experiment 14",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Experiment 14</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment15.html",
+    "href": "physics6/experiment15.html",
+    "title": "Experiment 15",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 15 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Experiment 15</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment15.html#overview",
+    "href": "physics6/experiment15.html#overview",
+    "title": "Experiment 15",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_15.Sound_Waves.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Experiment 15</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment15.html#helper-notebook",
+    "href": "physics6/experiment15.html#helper-notebook",
+    "title": "Experiment 15",
+    "section": "Helper notebook",
+    "text": "Helper notebook\nHere is the link for Mathematica helper notebook that you might need",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Experiment 15</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment15.html#comments",
+    "href": "physics6/experiment15.html#comments",
+    "title": "Experiment 15",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Experiment 15</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment16.html",
+    "href": "physics6/experiment16.html",
+    "title": "Experiment 16",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 16 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Experiment 16</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment16.html#overview",
+    "href": "physics6/experiment16.html#overview",
+    "title": "Experiment 16",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_16.Fourier_Anal.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Experiment 16</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment16.html#comments",
+    "href": "physics6/experiment16.html#comments",
+    "title": "Experiment 16",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Experiment 16</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment19.html",
+    "href": "physics6/experiment19.html",
+    "title": "Experiment 19",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 19 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 19</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment19.html#overview",
+    "href": "physics6/experiment19.html#overview",
+    "title": "Experiment 19",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_19.Index_of_Refraction.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 19</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment19.html#comments",
+    "href": "physics6/experiment19.html#comments",
+    "title": "Experiment 19",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Experiment 19</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment25a.html",
+    "href": "physics6/experiment25a.html",
+    "title": "Experiment 25a",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 25a or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Experiment 25a</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment25a.html#overview",
+    "href": "physics6/experiment25a.html#overview",
+    "title": "Experiment 25a",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_25a.Balmer_Series.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Experiment 25a</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment25a.html#comments",
+    "href": "physics6/experiment25a.html#comments",
+    "title": "Experiment 25a",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Experiment 25a</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment27.html",
+    "href": "physics6/experiment27.html",
+    "title": "Experiment 27",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 27 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Experiment 27</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment27.html#overview",
+    "href": "physics6/experiment27.html#overview",
+    "title": "Experiment 27",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_27.Zeeman.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Experiment 27</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment27.html#comments",
+    "href": "physics6/experiment27.html#comments",
+    "title": "Experiment 27",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Experiment 27</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment28.html",
+    "href": "physics6/experiment28.html",
+    "title": "Experiment 28",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 28 or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Experiment 28</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment28.html#overview",
+    "href": "physics6/experiment28.html#overview",
+    "title": "Experiment 28",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_28.Mossbauer.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Experiment 28</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment28.html#helper-notebook",
+    "href": "physics6/experiment28.html#helper-notebook",
+    "title": "Experiment 28",
+    "section": "Helper notebook",
+    "text": "Helper notebook\nHere is the link for Mathematica helper notebook that you might need",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Experiment 28</span>"
+    ]
+  },
+  {
+    "objectID": "physics6/experiment28.html#comments",
+    "href": "physics6/experiment28.html#comments",
+    "title": "Experiment 28",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 6",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Experiment 28</span>"
+    ]
+  },
+  {
+    "objectID": "physics7/intro.html",
+    "href": "physics7/intro.html",
+    "title": "Physics 7",
+    "section": "",
+    "text": "Overview\nWelcome to Physics 7. This section covers general information about the course structure.\nFirst, please take a look at the ReadME and Table of Contents for this class.\nAlso, during the 1st week you will be asked to send the Lab Scheduling Form to Frank Rice at rice@caltech.edu\nFor the data analysis for your reports you might need to take a look at Physical Data Analysis Reference.",
+    "crumbs": [
+      "Physics 7",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Physics 7</span>"
+    ]
+  },
+  {
+    "objectID": "physics7/intro.html#lab-guidance",
+    "href": "physics7/intro.html#lab-guidance",
+    "title": "Physics 7",
+    "section": "Lab Guidance",
+    "text": "Lab Guidance\n\nOn Analyzing Experimental Data\nExamples of Good Data Analysis Pages\nExamples of Good In-lab Notes\nOn Prelab and Recitation Preparation\nRadiation Safety",
+    "crumbs": [
+      "Physics 7",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Physics 7</span>"
+    ]
+  },
+  {
+    "objectID": "physics7/intro.html#curvefit",
+    "href": "physics7/intro.html#curvefit",
+    "title": "Physics 7",
+    "section": "Curvefit",
+    "text": "Curvefit\nHere is the link for downloading Curvefit and installation procedure. Also check out additional Mathematica notebooks and experimental notes",
+    "crumbs": [
+      "Physics 7",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Physics 7</span>"
+    ]
+  },
+  {
+    "objectID": "physics7/intro.html#appendix",
+    "href": "physics7/intro.html#appendix",
+    "title": "Physics 7",
+    "section": "Appendix",
+    "text": "Appendix\n\nA - Relativistic Kinematics\nB - Cross Sections\nC - Solid Angle\nD - Calculating Scintillator Compton Spectra",
+    "crumbs": [
+      "Physics 7",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Physics 7</span>"
+    ]
+  },
+  {
+    "objectID": "physics7/experiment-list.html",
+    "href": "physics7/experiment-list.html",
+    "title": "Ph7 - List of Experiments",
+    "section": "",
+    "text": "Introduction\nThis is the list of experiments you are going to conduct in Physics 7. The link to the pdf file",
+    "crumbs": [
+      "Physics 7",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Ph7 - List of Experiments</span>"
+    ]
+  },
+  {
+    "objectID": "physics7/experiment-list.html#experiments",
+    "href": "physics7/experiment-list.html#experiments",
+    "title": "Ph7 - List of Experiments",
+    "section": "Experiments",
+    "text": "Experiments\n\nHigh energy photon interactions with matter\n\n\n\nExperiment 30a: Gamma Ray Interactions\nYou are required to complete this experiment before attempting any of the others. This experiment provides a thorough introduction to the detection and spectral analysis of high-energy photons using a scintillator and multichannel analyzer. You will learn a bit about the nuclear process of beta decay, and will begin to understand how high-energy photons can interact with atoms. A result of your analysis will include an accurate measurement of the rest energy of the electron.\nExperiment 30a\n\n\nExperiment 30b: More Gamma Ray Interactions\nThis experiment will continue your investigation of the interactions of high-energy photons with atoms. You will look in detail at Compton scattering and electron- positron pair production within scintillation detectors. Your pair production spectrum will provide another means to estimate the electron rest energy.\nExperiment 30b\n\n\nExperiment 32a: Compton Scattering – kinematics\nThe American physicist Arthur Compton’s Nobel Prize-winning experiments of 1922 conclusively demonstrated the particle nature of high-energy photons. In our experiment high-energy photons from the decay of \\(\\ce{^{137}Cs}\\) collide with valence electrons in a plastic scintillator; another scintillator is used to detect outgoing photons from the collisions which emerge at a specific angle (selected by the experimenter). The electronics looks for coincident detections by the two scintillators and records the energy deposited in each. You will use this data to examine the relativistic kinematics (4-momentum conservation) of the photon-electron collision process described by the Compton Effect.\nExperiment 32a\n\n\nExperiment 32b: Compton Scattering – dynamics\nExperiment 32a is a prerequisite for this experiment. Using the same apparatus as for Experiment 32a, you will further examine the nature of photon-electron scattering by measuring the rate of scattering into various angles. This rate depends on the dynamics of the collision process: the electromagnetic interaction between the two particles. You will use your results to test one of the first major theoretical results of quantum electrodynamics, the Klein-Nishina equation, presented in a paper of 1928 by Oskar Klein (Sweden) and Yoshio Nishina (Japan).\nExperiment 32b\n\n\nClassic experiments and others of fundamental importance\n\n\n\nExperiment 12: Electron Diffraction\nYou may not repeat this experiment if you performed it in Physics 6. The discovery of the wave-like nature of electrons by the American physicists Davisson and Germer in 1927 and by G. P. Thompson in 1928 earned Louis de Broglie, the theorist who proposed this idea, the 1929 Nobel Prize; Davisson and Thompson later shared the 1937 prize for those experiments. Our experiment, similar to Thompson’s, examines the quite spectacular diffraction of electrons by crystals of graphite and aluminum, providing a precise determination of Planck’s constant.\nExperiment 12\n\n\nExperiment 21: A Beta Spectrometer and Relativity\nThe beta decays of radioactive \\(\\ce{^{137}Cs}\\) nuclei produce high-energy electrons with a wide range of kinetic energies. By using an adjustable magnetic “lens” to select for electron momentum and a PIN diode detector to determine kinetic energy, you can measure the momentum-energy relationship of the electron and compare your results to the predictions of Newtonian and relativistic mechanics.\nExperiment 21\n\n\nExperiment 25: The Balmer Lines of Hydrogen and Deuterium\nUsing a high-quality, research-grade spectrometer to accurately measure the emission line spectrum of a high-temperature mixture of hydrogen and deuterium gasses, you can accurately determine the difference between the wavelengths of the Balmer lines of hydrogen and the corresponding lines emitted by deuterium (\\(\\ce{^{2}H}\\)). These wavelength shifts are caused by the change in the reduced mass of the electron-proton v. electron-deuteron systems. You will use your data to determine the proton/electron mass ratio. You especially might like to perform this experiment if you did Experiment 25a during Physics 6, but that is not required.\nExperiment 25\n\n\nExperiment 27: The Normal Zeeman Effect\nYou may not repeat this experiment if you performed it in Physics 6. The presence of an external magnetic field causes the individual spectral lines emitted by a hot gas to split, although the splitting may be very small. This phenomenon is called the Zeeman Effect after the physicist who first observed it around 1896. A model for the source of the splitting was first proposed by Lorentz, who shared the 1902 Nobel Prize with Zeeman. Your careful measurements of the line splitting as a function of magnetic field strength will provide an accurate estimate of the electron’s charge/mass ratio.\nExperiment 27\n\n\nExperiment 33: The Stern-Gerlach Experiment\nIn our version of the famous 1922 experiment of the German physicists Otto Stern and Walther Gerlach, you will observe the quantization of a vector component of the magnetic moment of the electron and measure the value of the Bohr magneton. A beam of neutral potassium atoms is deflected by an applied non-uniform magnetic field; the deflection of each potassium atom in the beam is determined by its velocity as it enters the field and by its net magnetic moment (which is dominated by its single valence electron’s inherent angular momentum, or spin).\nExperiment 33\n\n\nExperiment 13: The Solid State Diode\nThe PN junction semiconductor diode is a staple of modern electronics. The condensed matter theory describing its behavior is relatively modern, fascinating, and rich in detail. Understanding how the diode works requires a synthesis of facts from electromagnetism, statistical mechanics, and multi-particle quantum theory. This experiment investigates the accuracy of a simplified version of William Shockley’s 1950 theory of the ideal PN junction diode (Shockley shared the 1956 Nobel Prize with J. Bardeen and W. Brattain for their invention of the transistor).\nExperiment 13\n\n\nExperiment 20: The Geiger-Müller Detector and Ion Mobility\nThe Geiger-Müller tube, invented by members of Ernest Rutherford’s UK group of researchers, was one of the world’s first efficient detectors of high-energy particles. By studying the detailed shapes of its output pulses, you will investigate the surprisingly complex dynamics of ion drift in response to the intense electric field applied to the gas within the device.\nExperiment 20\n\n\nExperiment 24: The Temperature Dependence of Resistance\nGood conductors have a resistance which is very nearly proportional to temperature — why is that? Pure semiconductor materials, on the other hand, have a resistance which decreases exponentially with increasing temperature — again, why? As with the behavior of the PN junction diode (Experiment 13), the answers lie deep in the complex and subtle behaviors of the outer (valence) electrons of the atoms in the solid. This experiment tests some basic but important models derived from condensed matter theory, which synthesizes basic laws of electrodynamics, statistical mechanics, and quantum theory.\nExperiment 24\n\n\nExperiment 28: The Mössbauer Effect\nYou may not repeat this experiment if you performed it in Physics 6. An atom whose nucleus emits a gamma ray must recoil to conserve linear momentum. The energy lost to the recoiling atom reduces the gamma ray energy enough to prohibit it from absorption by another, idential nucleus. While still a graduate student, Rudolph Mössbauer demonstrated that “recoilless” emission of gamma photons could occur from nuclei embedded in a crystal, allowing their subsequent absorption by identical nuclei. Mössbauer shared the 1961 Nobel Prize for this discovery. You will use this Mössbauer Effect to measure the absorption line profile of the 14.4keV gamma photon of \\(\\ce{^{57}Fe}\\), an “oscillator” with a quality factor Q of \\(\\sim 10^{-12}\\).\nExperiment 28\n\n\nExperiment 29: The Mössbauer Effect – hyperfine splitting\nExperiment 28 is a prerequisite for this experiment. The ambient magnetic field experienced by a nucleus in a ferromagnetic material such as iron will cause slight shifts in the nuclear energy levels through the Zeeman Effect. These tiny shifts are detectable using the highly sensitive technique of Mössbauer Spectroscopy. You will acquire the 57Fe gamma photon absorption spectra of a few sample materials using a commercial spectrometer along with a relatively powerful radioactive source\nExperiment 29\n\n\nExperiment 34: Lifetime of a Nuclear Excited State\nBeta decay of 57Co results in a 57Fe daughter nucleus which is an excited state. This state often decays to an intermediate state by emitting a 122keV photon, followed by a 14.4keV photon as this second nuclear state decays to the 57Fe ground state. By measuring the statistics of the time intervals between the emissions of these two gamma photons you may accurately determine the lifetime of this 14.4keV excited state, which is less than 100 nsec.\nExperiment 34",
+    "crumbs": [
+      "Physics 7",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Ph7 - List of Experiments</span>"
+    ]
+  },
+  {
+    "objectID": "physics7/experiment30a.html",
+    "href": "physics7/experiment30a.html",
+    "title": "Experiment 30a",
+    "section": "",
+    "text": "Overview\nYou can either download the PDF for the Experiment 30a or open it through embedded PDF viewer below.",
+    "crumbs": [
+      "Physics 7",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Experiment 30a</span>"
+    ]
+  },
+  {
+    "objectID": "physics7/experiment30a.html#overview",
+    "href": "physics7/experiment30a.html#overview",
+    "title": "Experiment 30a",
+    "section": "",
+    "text": "&lt;p&gt;Your browser does not support PDFs. &lt;a href=\"http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_02.Resonant_System.pdf\" target=\"_blank\"&gt;Download the PDF instead&lt;/a&gt;.&lt;/p&gt;\n\n\n\n\nNote: If the PDF doesn’t display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.",
+    "crumbs": [
+      "Physics 7",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Experiment 30a</span>"
+    ]
+  },
+  {
+    "objectID": "physics7/experiment30a.html#comments",
+    "href": "physics7/experiment30a.html#comments",
+    "title": "Experiment 30a",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 7",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Experiment 30a</span>"
+    ]
+  },
+  {
+    "objectID": "physics7/experiment2.html",
+    "href": "physics7/experiment2.html",
+    "title": "Physics 7 - Experiment 2",
+    "section": "",
+    "text": "Introduction\nWORK IN PROGRESS",
+    "crumbs": [
+      "Physics 7",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Physics 7 - Experiment 2</span>"
+    ]
+  },
+  {
+    "objectID": "physics7/experiment2.html#comments",
+    "href": "physics7/experiment2.html#comments",
+    "title": "Physics 7 - Experiment 2",
+    "section": "Comments",
+    "text": "Comments\nUpon completing the experiment, please consider leaving a comment about it. Would you recommend the experiment to other students? Did you find it interesting/time-consuming/‘chill’ ?",
+    "crumbs": [
+      "Physics 7",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Physics 7 - Experiment 2</span>"
+    ]
+  }
+]
