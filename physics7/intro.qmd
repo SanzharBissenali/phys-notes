@@ -1,0 +1,35 @@
+# Physics 7 {#part-physics7}
+
+Welcome to Physics 7. This section covers general information about the course structure.
+
+## Overview
+
+First, please take a look at the [ReadME](http://sophphx.caltech.edu/Physics_7/ReadMe.pdf){target="_blank"} and [Table of Contents](http://sophphx.caltech.edu/Physics_7/Table_of_Contents.pdf){target="_blank"} for this class.
+
+Also, during the 1st week you will be asked to send the [Lab Scheduling Form](http://sophphx.caltech.edu/Physics_6/PHYSICS_LAB_SCHEDULING_FORM.pdf){target="_blank"}  to Frank Rice at 
+rice@caltech.edu
+
+For the **data analysis** for your reports you might need to take a look at [Physical Data Analysis Reference.](http://sophphx.caltech.edu/Physics_6/Elementary_Physical_Data_Analysis.pdf){target="_blank"}
+
+## Lab Guidance
+
+- [On Analyzing Experimental Data](http://sophphx.caltech.edu/Physics_6/Lab_Notes_Guidance/AnalysisGuidance.pdf){target="_blank"} 
+- [Examples of Good Data Analysis Pages](http://sophphx.caltech.edu/Physics_6/Lab_Notes_Guidance/AnalysisPages.pdf){target="_blank"}
+- [Examples of Good In-lab Notes](http://sophphx.caltech.edu/Physics_6/Lab_Notes_Guidance/InLabNotes.pdf){target="_blank"}
+- [On Prelab and Recitation Preparation](http://sophphx.caltech.edu/Physics_6/Lab_Notes_Guidance/Recitation.pdf){target="_blank"}
+- [Radiation Safety](http://sophphx.caltech.edu/Physics_7/Table_of_Contents.pdf){target="_blank"}
+
+## Curvefit
+
+Here is the link for downloading [Curvefit](http://sophphx.caltech.edu/Physics_6/CurveFit/){target="_blank"} and installation procedure. 
+Also check out additional [Mathematica notebooks](http://sophphx.caltech.edu/Physics_7/Mathematica_Notebooks/){target="_blank"} and 
+[experimental notes](http://sophphx.caltech.edu/Physics_7/Experiment_Notes/){target="_blank"}
+
+## Appendix 
+
+- [A - Relativistic Kinematics](http://sophphx.caltech.edu/Physics_7/General_Appendix_A.pdf){target="_blank"} 
+- [B - Cross Sections](http://sophphx.caltech.edu/Physics_7/General_Appendix_B.pdf){target="_blank"}
+- [C - Solid Angle](http://sophphx.caltech.edu/Physics_7/General_Appendix_C.pdf){target="_blank"}
+- [D - Calculating Scintillator Compton Spectra](http://sophphx.caltech.edu/Physics_7/General_Appendix_D.pdf){target="_blank"}
+
+

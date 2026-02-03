@@ -1,0 +1,14 @@
+# Quantum Mechanics {#sec-quantum}
+
+*This chapter will cover quantum theory and its applications to microscopic systems.*
+
+## Topics to Cover
+
+- Wave-Particle Duality
+- Schrödinger Equation
+- Quantum States
+- Heisenberg Uncertainty Principle
+- Quantum Operators
+- Applications of Quantum Mechanics
+
+*Content coming soon...*

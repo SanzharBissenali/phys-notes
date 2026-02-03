@@ -1,0 +1,128 @@
+# Ph6 - List of Experiments {#sec-physics6-experiment-list}
+
+## Introduction
+
+This is the list of experiments you are going to conduct in Physics 6. The link to the 
+[pdf file](http://sophphx.caltech.edu/Physics_6/Experiment_List.pdf){target="_blank"}
+
+## Experiments
+
+### Experiment 2: A Simple Resonant System 
+
+A thorough introduction to the procedures and techniques you will come to master as
+you complete the sophomore experimental physics lab sequence. Specifically, you
+conduct spectral and time domain analyses of a RLC resonant circuit. You are
+required to complete this experiment before attempting any of the others.
+
+[Experiment 2](experiment2.qmd){target="_blank"}
+
+### Experiment 7: The Kelvin Absolute Voltmeter 
+
+By measuring the force between two parallel metal plates as a function of the voltage
+difference between them you may determine the electrical permittivity of space and
+thus the speed of light. The apparatus was designed and built many years ago by the
+renowned physicist Wolfgang Panofsky; it includes a beautiful, century-old analytic
+balance.
+
+[Experiment 7](experiment7.qmd){target="_blank"}
+
+### Experiment 12: Electron Diffraction
+
+The discovery of the wave-like nature of electrons by the American physicists
+Davisson and Germer in 1927 and by G. P. Thompson in 1928 earned Louis de
+Broglie, the theorist who proposed this idea, the 1929 Nobel Prize; Davisson and
+Thompson later shared the 1937 prize for those experiments. Our experiment, similar
+to Thompson’s, examines the quite spectacular diffraction of electrons by crystals of
+graphite and aluminum, providing a precise determination of Planck’s constant.
+
+[Experiment 12](experiment12.qmd){target="_blank"}
+
+### Experiment 14: Lumped-Parameter Delay Line
+
+The apparatus consists of a 1-dimensional resonant cavity constructed from a 10-cell
+set of strongly-coupled LC resonators. The resulting transmission line is dispersive,
+and its spectrum of resonances is particularly rich. You will find that its behavior
+varies slightly from the predictions of the most straightforward theory, hinting at the
+existence of an additional high-frequency resonance well beyond its cutoff frequency.
+
+[Experiment 14](experiment14.qmd){target="_blank"}
+
+### Experiment 15: Sound Waves in a Cavity
+
+The apparatus is essentially a two-dimensional resonant cavity using air as the
+transmission medium of sound waves introduced by a speaker in a cavity wall.
+Analysis of the very rich spectrum of resonances provides the dispersion relation for
+sound waves in air and yields a very accurate determination of the speed of sound.
+
+[Experiment 15](experiment15.qmd){target="_blank"}
+
+
+### Experiment 16: Analog Fourier Series
+
+Using a high-Q resonant filter to selectively amplify particular harmonics of a
+periodic input signal allows you to measure the Fourier component amplitudes and
+phases of the input waveform. Comparing your results with the mathematical
+calculation of these values will provide some interesting insights into the relationship
+between these particular abstract mathematical constructs and actual physical
+behavior.
+
+[Experiment 16](experiment16.qmd){target="_blank"}
+
+### Experiment 19: The Index of Refraction of Gasses
+
+Using a modern, research-grade implementation of Albert Michelson’s famous
+interferometer design you will fairly accurately determine the indices of refraction of
+various gasses (air, $\ce{CO2}, \ce{He}$) at two wavelengths. Combining your results with a
+simple microscopic theory of the atomic origin of the refractive index provides some
+insight into the response of an atom’s electrons to an oscillating external
+electromagnetic field.
+
+[Experiment 19](experiment19.qmd){target="_blank"}
+
+### Experiment 25a: Balmer Lines of Hydrogen
+
+Using a high-quality, research-grade spectrometer to accurately measure the emission
+line spectrum of a high-temperature hydrogen gas, you will test the accuracy of a very
+simple quantum model of the electron energy levels in a hydrogen atom (a charged
+particle in an attractive Coulomb field). Your results will should also provide a very
+precise measurement of a fundamental constant of nature, the (reduced mass)
+Rydberg constant.
+
+[Experiment 25a](experiment25a.qmd){target="_blank"}
+
+### Experiment 27: The Normal Zeeman Effect
+
+The presence of an external magnetic field causes the individual spectral lines emitted
+by a hot gas to split, although the splitting may be very small. This phenomenon is
+called the Zeeman effect after the physicist who first observed it around 1896. A
+model for the source of the splitting was first proposed by Lorentz, who shared the
+1902 Nobel Prize with Zeeman. Your careful measurements of the line splitting as a
+function of magnetic field strength will provide an accurate estimate of the electron’s
+charge/mass ratio.
+
+[Experiment 27](experiment27.qmd){target="_blank"}
+
+### Experiment 28: The Mössbauer Effect
+
+An atom whose nucleus emits a gamma ray must recoil to conserve linear
+momentum. The energy lost to the recoiling atom reduces the gamma ray energy
+enough to prohibit it from absorption by another, idential nucleus. While still a
+graduate student, Rudolph Mössbauer demonstrated that “recoilless” emission of
+gamma photons could occur from nuclei embedded in a crystal, allowing their
+subsequent absorption by identical nuclei. Mössbauer shared the 1961 Nobel Prize for
+this discovery. You will use this Mössbauer Effect to measure the absorption line
+profile of the 14.4keV gamma photon of $\ce{^{57}Fe}$, an “oscillator” with a quality factor Q
+of $\sim 10^{-12}$.
+
+[Experiment 28](experiment28.qmd){target="_blank"}
+
+
+## Links to some useful pages
+
+- 
+- 
+- 
+
+## Student Comments
+
+

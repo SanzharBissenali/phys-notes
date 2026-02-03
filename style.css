@@ -12,3 +12,129 @@
 .study-question-callout .icon {
     color: #007BFF; /* Change icon color */
 }
+
+/* Cusdis Comments Styling */
+#cusdis_thread {
+    margin-top: 2rem;
+    min-height: 400px;
+}
+
+/* Remove fixed height and enable page scrolling */
+#cusdis_thread,
+#cusdis_thread > div,
+.cusdis-comments-list,
+.cusdis-comments-container {
+    max-height: none !important;
+    height: auto !important;
+    overflow: visible !important;
+}
+
+/* Reorder: Comments above form */
+#cusdis_thread {
+    display: flex;
+    flex-direction: column;
+}
+
+#cusdis_thread .cusdis-comments-list,
+#cusdis_thread [class*="comments-list"],
+#cusdis_thread [id*="comments-list"] {
+    order: 1;
+    margin-bottom: 2rem;
+}
+
+#cusdis_thread .cusdis-comment-form,
+#cusdis_thread [class*="comment-form"],
+#cusdis_thread [id*="comment-form"],
+#cusdis_thread form {
+    order: 2;
+}
+
+/* Hide email and website fields */
+#cusdis_thread input[type="email"],
+#cusdis_thread input[name="email"],
+#cusdis_thread input[placeholder*="email" i],
+#cusdis_thread input[placeholder*="Email" i],
+#cusdis_thread input[name="website"],
+#cusdis_thread input[name="url"],
+#cusdis_thread input[placeholder*="website" i],
+#cusdis_thread input[placeholder*="Website" i],
+#cusdis_thread input[placeholder*="URL" i] {
+    display: none !important;
+}
+
+/* Show only nickname field and reply button */
+#cusdis_thread input[type="text"][name="nickname"],
+#cusdis_thread input[type="text"][placeholder*="nickname" i],
+#cusdis_thread input[type="text"][placeholder*="Nickname" i],
+#cusdis_thread input[type="text"][placeholder*="Name" i]:not([name="email"]):not([name="website"]) {
+    display: block !important;
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+/* Style comment textarea */
+#cusdis_thread textarea {
+    width: 100%;
+    min-height: 120px;
+    padding: 0.75rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    resize: vertical;
+}
+
+/* Style submit/reply buttons */
+#cusdis_thread button[type="submit"],
+#cusdis_thread button[class*="submit"],
+#cusdis_thread button[class*="reply"],
+#cusdis_thread .cusdis-btn {
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    font-size: 1rem;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 0.5rem;
+}
+
+#cusdis_thread button[type="submit"]:hover,
+#cusdis_thread button[class*="submit"]:hover,
+#cusdis_thread button[class*="reply"]:hover {
+    background-color: #0056b3;
+}
+
+/* Increase spacing for comments */
+#cusdis_thread .cusdis-comment,
+#cusdis_thread [class*="comment-item"],
+#cusdis_thread article {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+/* Style comment content */
+#cusdis_thread .cusdis-comment-content,
+#cusdis_thread [class*="comment-content"] {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+/* Style reply buttons in comments */
+#cusdis_thread .cusdis-comment-reply,
+#cusdis_thread [class*="reply-button"],
+#cusdis_thread button[class*="reply"] {
+    margin-top: 0.5rem;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.9rem;
+}
+
+/* Increase overall container padding */
+#cusdis_thread > div {
+    padding: 1.5rem 0;
+}

@@ -1,0 +1,195 @@
+# Ph7 - List of Experiments {#sec-physics7-experiment-list}
+
+## Introduction
+
+This is the list of experiments you are going to conduct in Physics 7. The link to the 
+[pdf file](http://sophphx.caltech.edu/Physics_7/ExperimentList.pdf){target="_blank"}
+
+## Experiments
+
+### High energy photon interactions with matter
+
+--- 
+
+### Experiment 30a: Gamma Ray Interactions
+
+**You are required to complete this experiment before attempting any of the others.**
+This experiment provides a thorough introduction to the detection and spectral
+analysis of high-energy photons using a scintillator and multichannel analyzer. You
+will learn a bit about the nuclear process of beta decay, and will begin to understand
+how high-energy photons can interact with atoms. A result of your analysis will
+include an accurate measurement of the rest energy of the electron.
+
+[Experiment 30a](experiment30a.qmd){target="_blank"}
+
+### Experiment 30b: More Gamma Ray Interactions
+
+This experiment will continue your investigation of the interactions of high-energy
+photons with atoms. You will look in detail at Compton scattering and electron-
+positron pair production within scintillation detectors. Your pair production spectrum
+will provide another means to estimate the electron rest energy.
+
+[Experiment 30b](experiment30b.qmd){target="_blank"}
+
+### Experiment 32a: Compton Scattering – kinematics
+
+The American physicist Arthur Compton’s Nobel Prize-winning experiments of 1922
+conclusively demonstrated the particle nature of high-energy photons. In our
+experiment high-energy photons from the decay of $\ce{^{137}Cs}$ collide with valence
+electrons in a plastic scintillator; another scintillator is used to detect outgoing
+photons from the collisions which emerge at a specific angle (selected by the
+experimenter). The electronics looks for coincident detections by the two scintillators
+and records the energy deposited in each. You will use this data to examine the
+relativistic kinematics (4-momentum conservation) of the photon-electron collision
+process described by the Compton Effect.
+
+[Experiment 32a](experiment32a.qmd){target="_blank"}
+
+### Experiment 32b: Compton Scattering – dynamics
+
+**Experiment 32a is a prerequisite for this experiment.** Using the same apparatus as
+for Experiment 32a, you will further examine the nature of photon-electron scattering
+by measuring the rate of scattering into various angles. This rate depends on the
+dynamics of the collision process: the electromagnetic interaction between the two
+particles. You will use your results to test one of the first major theoretical results of
+quantum electrodynamics, the Klein-Nishina equation, presented in a paper of 1928
+by Oskar Klein (Sweden) and Yoshio Nishina (Japan).
+
+[Experiment 32b](experiment32b.qmd){target="_blank"}
+
+### Classic experiments and others of fundamental importance
+
+--- 
+
+### Experiment 12: Electron Diffraction
+
+**You may not repeat this experiment if you performed it in Physics 6.** The discovery
+of the wave-like nature of electrons by the American physicists Davisson and Germer
+in 1927 and by G. P. Thompson in 1928 earned Louis de Broglie, the theorist who
+proposed this idea, the 1929 Nobel Prize; Davisson and Thompson later shared the
+1937 prize for those experiments. Our experiment, similar to Thompson’s, examines
+the quite spectacular diffraction of electrons by crystals of graphite and aluminum,
+providing a precise determination of Planck’s constant.
+
+[Experiment 12](experiment12.qmd){target="_blank"}
+
+### Experiment 21: A Beta Spectrometer and Relativity
+
+The beta decays of radioactive $\ce{^{137}Cs}$ nuclei produce high-energy electrons with a
+wide range of kinetic energies. By using an adjustable magnetic “lens” to select for
+electron momentum and a PIN diode detector to determine kinetic energy, you can
+measure the momentum-energy relationship of the electron and compare your results
+to the predictions of Newtonian and relativistic mechanics.
+
+[Experiment 21](experiment21.qmd){target="_blank"}
+
+### Experiment 25: The Balmer Lines of Hydrogen and Deuterium
+
+Using a high-quality, research-grade spectrometer to accurately measure the emission
+line spectrum of a high-temperature mixture of hydrogen and deuterium gasses, you
+can accurately determine the difference between the wavelengths of the Balmer lines
+of hydrogen and the corresponding lines emitted by deuterium ($\ce{^{2}H}$). These
+wavelength shifts are caused by the change in the reduced mass of the electron-proton
+v. electron-deuteron systems. You will use your data to determine the proton/electron
+mass ratio. You especially might like to perform this experiment if you did
+Experiment 25a during Physics 6, but that is not required.
+
+[Experiment 25](experiment25.qmd){target="_blank"}
+
+### Experiment 27: The Normal Zeeman Effect
+
+**You may not repeat this experiment if you performed it in Physics 6.** The presence
+of an external magnetic field causes the individual spectral lines emitted by a hot gas
+to split, although the splitting may be very small. This phenomenon is called the
+Zeeman Effect after the physicist who first observed it around 1896. A model for the
+source of the splitting was first proposed by Lorentz, who shared the 1902 Nobel
+Prize with Zeeman. Your careful measurements of the line splitting as a function of
+magnetic field strength will provide an accurate estimate of the electron’s
+charge/mass ratio.
+
+[Experiment 27](experiment27.qmd){target="_blank"}
+
+### Experiment 33: The Stern-Gerlach Experiment
+
+In our version of the famous 1922 experiment of the German physicists Otto Stern
+and Walther Gerlach, you will observe the quantization of a vector component of the
+magnetic moment of the electron and measure the value of the *Bohr magneton*. A
+beam of neutral potassium atoms is deflected by an applied non-uniform magnetic
+field; the deflection of each potassium atom in the beam is determined by its velocity
+as it enters the field and by its net magnetic moment (which is dominated by its single
+valence electron’s inherent angular momentum, or *spin*).
+
+[Experiment 33](experiment33.qmd){target="_blank"}
+
+
+### Experiment 13: The Solid State Diode
+
+The PN junction semiconductor diode is a staple of modern electronics. The
+condensed matter theory describing its behavior is relatively modern, fascinating, and
+rich in detail. Understanding how the diode works requires a synthesis of facts from
+electromagnetism, statistical mechanics, and multi-particle quantum theory. This
+experiment investigates the accuracy of a simplified version of William Shockley’s
+1950 theory of the ideal PN junction diode (Shockley shared the 1956 Nobel Prize
+with J. Bardeen and W. Brattain for their invention of the transistor).
+
+[Experiment 13](experiment13.qmd){target="_blank"}
+
+### Experiment 20: The Geiger-Müller Detector and Ion Mobility
+
+The Geiger-Müller tube, invented by members of Ernest Rutherford’s UK group of
+researchers, was one of the world’s first efficient detectors of high-energy particles. By
+studying the detailed shapes of its output pulses, you will investigate the surprisingly
+complex dynamics of ion drift in response to the intense electric field applied to the
+gas within the device.
+
+[Experiment 20](experiment20.qmd){target="_blank"}
+
+### Experiment 24: The Temperature Dependence of Resistance
+
+Good conductors have a resistance which is very nearly proportional to temperature
+— why is that? Pure semiconductor materials, on the other hand, have a resistance
+which decreases exponentially with increasing temperature — again, why? As with
+the behavior of the PN junction diode (Experiment 13), the answers lie deep in the
+complex and subtle behaviors of the outer (valence) electrons of the atoms in the
+solid. This experiment tests some basic but important models derived from condensed
+matter theory, which synthesizes basic laws of electrodynamics, statistical mechanics,
+and quantum theory.
+
+[Experiment 24](experiment24.qmd){target="_blank"}
+
+
+### Experiment 28: The Mössbauer Effect
+
+**You may not repeat this experiment if you performed it in Physics 6.** An atom whose nucleus emits a gamma ray must recoil to conserve linear
+momentum. The energy lost to the recoiling atom reduces the gamma ray energy
+enough to prohibit it from absorption by another, idential nucleus. While still a
+graduate student, Rudolph Mössbauer demonstrated that “recoilless” emission of
+gamma photons could occur from nuclei embedded in a crystal, allowing their
+subsequent absorption by identical nuclei. Mössbauer shared the 1961 Nobel Prize for
+this discovery. You will use this Mössbauer Effect to measure the absorption line
+profile of the 14.4keV gamma photon of $\ce{^{57}Fe}$, an “oscillator” with a quality factor Q
+of $\sim 10^{-12}$.
+
+[Experiment 28](experiment28.qmd){target="_blank"}
+
+### Experiment 29: The Mössbauer Effect – hyperfine splitting
+
+**Experiment 28 is a prerequisite for this experiment.** The ambient magnetic field
+experienced by a nucleus in a ferromagnetic material such as iron will cause slight
+shifts in the nuclear energy levels through the Zeeman Effect. These tiny shifts are
+detectable using the highly sensitive technique of Mössbauer Spectroscopy. You will
+acquire the 57Fe gamma photon absorption spectra of a few sample materials using a
+commercial spectrometer along with a relatively powerful radioactive source
+
+[Experiment 29](experiment29.qmd){target="_blank"}
+
+### Experiment 34:  Lifetime of a Nuclear Excited State
+
+Beta decay of 57Co results in a 57Fe daughter nucleus which is an excited state. This
+state often decays to an intermediate state by emitting a 122keV photon, followed by
+a 14.4keV photon as this second nuclear state decays to the 57Fe ground state. By
+measuring the statistics of the time intervals between the emissions of these two
+gamma photons you may accurately determine the lifetime of this 14.4keV excited
+state, which is less than 100 nsec.
+
+[Experiment 34](experiment34.qmd){target="_blank"}

@@ -4,34 +4,59 @@ project:
     port: 8888
 
 book:
-  title: 6.390 - Intro to Machine Learning
+  title: Physics Course - Introduction to Physics
   # subtitle: Course Notes
-  repo-url: https://github.com/390introml/notes
+  repo-url: https://github.com/physics-course/notes
   repo-branch: main
   repo-actions: [edit, issue]
   repo-subdir: ""
-  site-url: https://introml.mit.edu/notes
+  site-url: https://physics-course.edu/notes
   twitter-card: true
   favicon: logo/favicon.svg
   # cover-image: logo/390.png
   chapters:
     - index.qmd
-    - regression.qmd
-    - gradient_descent.qmd
-    - classification.qmd
-    - feature_representation.qmd
-    - neural_networks.qmd
-    - convolutional_neural_networks.qmd
-    - autoencoders.qmd
-    - transformers.qmd
-    - non_parametric.qmd
-    - mdp.qmd
-    - reinforcement_learning.qmd
-    # - clustering.qmd
-  appendices:
-    - matrix_derivative.qmd
-    - neural_network_appendix.qmd
-    - nutshell.qmd
+    
+    # Physics 5 Section
+    - part: Physics 5
+      chapters:
+        - physics5/intro.qmd
+        - physics5/experiment1.qmd
+        - physics5/experiment2.qmd
+        - physics5/experiment3.qmd
+        - physics5/experiment4.qmd
+        - physics5/experiment5.qmd
+        - physics5/experiment6.qmd
+        - physics5/experiment7.qmd
+        - physics5/experiment8.qmd
+
+    
+    # Physics 6 Section
+    - part: Physics 6
+      chapters:
+        - physics6/intro.qmd
+        - physics6/experiment-list.qmd
+        - physics6/experiment2.qmd
+        - physics6/experiment7.qmd
+        - physics6/experiment12.qmd
+        - physics6/experiment14.qmd
+        - physics6/experiment15.qmd
+        - physics6/experiment16.qmd
+        - physics6/experiment19.qmd
+        - physics6/experiment25a.qmd
+        - physics6/experiment27.qmd
+        - physics6/experiment28.qmd
+    
+    # Physics 7 Section
+    - part: Physics 7
+      chapters:
+        - physics7/intro.qmd
+        - physics7/experiment-list.qmd
+        - physics7/experiment30a.qmd
+        - physics7/experiment2.qmd
+    
+    # Core Physics Chapters
+
 
   reader-mode: true
   sharing: [twitter, linkedin]
@@ -57,6 +82,7 @@ format:
     # citation-style: elsevier-with-titles.csl
     css: style.css
     anchor-sections: true
+    number-sections: false
     fontsize: "16px"
     linestretch: 1.6
     mainfont: "Palatino"
@@ -154,5 +180,7 @@ imagify:
   header-includes: |
     \usepackage{pgfplots}
     \usetikzlibrary{tikzmark, shapes.geometric, shapes.arrows, fit, bending, calc, backgrounds, automata, positioning}
-  pdf-engine: pdflatex
+  # imagify only supports: latex, xelatex, lualatex
+  # (pdflatex is NOT accepted by the filter, and will emit warnings)
+  pdf-engine: latex
 # engine: knitr

@@ -1,0 +1,16 @@
+# Physics 5 {#part-physics5}
+
+Welcome to Physics 5. This section covers general information about the course structure.
+
+## Overview
+
+First, please take a look at the [ReadME](http://sophphx.caltech.edu/Physics_5/Physics_5_105_README.pdf){target="_blank"} and [Intro](http://sophphx.caltech.edu/Physics_5/Physics_5_105_Intro.pdf){target="_blank"} for this class.
+
+Also, during the 1st week you will be asked to send the [Lab Scheduling Form](http://sophphx.caltech.edu/Physics_6/PHYSICS_LAB_SCHEDULING_FORM.pdf){target="_blank"}  to Frank Rice at 
+rice@caltech.edu
+
+## Useful Files
+
+- [Data Sheets](http://sophphx.caltech.edu/Physics_5/Data_sheets/){target="_blank"}
+- [Lab Equipment](http://sophphx.caltech.edu/Physics_5/Lab_Equipment/){target="_blank"}
+- [Useful Circuits](http://sophphx.caltech.edu/Physics_5/Useful_circuits/){target="_blank"}

@@ -1,0 +1,97 @@
+# Experiment 7 {#sec-physics6-experiment7}
+
+## Overview
+
+You can either download the PDF for the [Experiment 7](http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_07.Kelvin_Abs_Voltmeter.pdf){target="_blank"}
+or open it through embedded PDF viewer below.
+
+::: {#pdf-embed}
+
+<iframe src="http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_07.Kelvin_Abs_Voltmeter.pdf" width="100%" height="800px" style="border: 1px solid #ddd; border-radius: 4px;">
+
+Your browser does not support PDFs. [Download the PDF instead](http://sophphx.caltech.edu/Physics_6/Experiment_Notes/Exp_07.Kelvin_Abs_Voltmeter.pdf){target="_blank"}.
+
+</iframe>
+
+:::
+
+::: {.column-margin}
+**Note**: If the PDF doesn't display in the embedded viewer, your browser may require the PDF to open in a new tab instead. You can always use the download link above.
+:::
+
+## Comments
+
+Upon completing the experiment, please consider leaving a comment about it. Would you 
+recommend the experiment to other students? Did you find it interesting/time-consuming/'chill' ?
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="7f0baae0-269b-4622-b30a-024c45bbdb99"
+  data-page-id=""
+  data-page-url=""
+  data-page-title=""
+></div>
+<script>
+  // Set page metadata for Cusdis dynamically
+  window.addEventListener('DOMContentLoaded', function() {
+    const cusdisThread = document.getElementById('cusdis_thread');
+    if (cusdisThread) {
+      cusdisThread.setAttribute('data-page-id', window.location.pathname);
+      cusdisThread.setAttribute('data-page-url', window.location.href);
+      cusdisThread.setAttribute('data-page-title', document.title);
+    }
+  });
+
+  // Reorder Cusdis elements: comments above form
+  function reorderCusdisElements() {
+    const cusdisThread = document.getElementById('cusdis_thread');
+    if (!cusdisThread) return;
+
+    // Wait for Cusdis to render
+    setTimeout(function() {
+      const container = cusdisThread.querySelector('div') || cusdisThread;
+      const form = container.querySelector('form') || 
+                   container.querySelector('[class*="form"]') ||
+                   container.querySelector('[id*="form"]');
+      const commentsList = container.querySelector('[class*="comment"]') ||
+                          container.querySelector('[class*="list"]') ||
+                          container.querySelector('ul') ||
+                          container.querySelector('ol');
+
+      if (form && commentsList && form.parentNode === commentsList.parentNode) {
+        // Move form after comments
+        commentsList.parentNode.insertBefore(form, commentsList.nextSibling);
+      }
+
+      // Hide email and website fields
+      const inputs = container.querySelectorAll('input');
+      inputs.forEach(function(input) {
+        const type = input.type.toLowerCase();
+        const name = (input.name || '').toLowerCase();
+        const placeholder = (input.placeholder || '').toLowerCase();
+        
+        if (type === 'email' || 
+            name.includes('email') || 
+            placeholder.includes('email') ||
+            name.includes('website') || 
+            name.includes('url') ||
+            placeholder.includes('website') ||
+            placeholder.includes('url')) {
+          input.style.display = 'none';
+          const label = input.parentNode.querySelector('label[for="' + input.id + '"]');
+          if (label) label.style.display = 'none';
+        }
+      });
+    }, 1000);
+  }
+
+  // Run after Cusdis loads
+  window.addEventListener('load', reorderCusdisElements);
+  
+  // Also try after a delay in case Cusdis loads asynchronously
+  setTimeout(reorderCusdisElements, 2000);
+</script>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script> 
+
+
+
