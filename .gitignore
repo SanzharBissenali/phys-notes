@@ -311,3 +311,8 @@ TSWLatexianTemp*
 
 **/*.quarto_ipynb
 /_imagify_files
+
+# Quarto installers
+quarto-macos.tar.gz
+quarto-linux-amd64.deb
+quarto.tar.gz
