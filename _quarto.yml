@@ -6,11 +6,11 @@ project:
 book:
   title: Physics Course - Introduction to Physics
   # subtitle: Course Notes
-  repo-url: https://github.com/physics-course/notes
+  repo-url: https://github.com/SanzharBissenali/phys-notes
   repo-branch: main
   repo-actions: [edit, issue]
   repo-subdir: ""
-  site-url: https://physics-course.edu/notes
+  site-url: https://SanzharBissenali.github.io/phys-notes
   twitter-card: true
   favicon: logo/favicon.svg
   # cover-image: logo/390.png
